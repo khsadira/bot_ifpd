@@ -4,5 +4,29 @@
     "@discordjs/rest": "^0.1.0-canary.0",
     "discord-api-types": "^0.24.0",
     "discord.js": "^13.3.1"
-  }
+  },
+  "name": "bot_police_gta5",
+  "version": "1.0.0",
+  "description": "Discord bot to manage crimincal record on gta server",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khsadira/bot_ifpd.git"
+  },
+  "keywords": [
+    "khsadira",
+    "bot_ifpd",
+    "bot",
+    "police",
+    "gta5"
+  ],
+  "author": "Khan Sadirac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khsadira/bot_ifpd/issues"
+  },
+  "homepage": "https://github.com/khsadira/bot_ifpd#readme"
 }
